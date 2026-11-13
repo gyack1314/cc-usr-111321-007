@@ -1,0 +1,10 @@
+{"failed": 0, "id": "w0", "parent": "b0", "period": 1, "product": "B", "recipe": "cold", "temperature": 80, "tested": 10}
+{"failed": 1, "id": "w1", "parent": "b0", "period": 1, "product": "A", "recipe": "hot", "temperature": 81, "tested": 10}
+{"failed": 2, "id": "w2", "parent": "b1", "period": 1, "product": "A", "recipe": "cold", "temperature": 82, "tested": 10}
+{"failed": 3, "id": "w3", "parent": "b1", "period": 1, "product": "B", "recipe": "hot", "temperature": 83, "tested": 10}
+{"failed": 0, "id": "w4", "parent": "b2", "period": 1, "product": "A", "recipe": "cold", "temperature": 84, "tested": 10}
+{"failed": 1, "id": "w5", "parent": "b2", "period": 1, "product": "A", "recipe": "hot", "temperature": 85, "tested": 10}
+{"failed": 2, "id": "w6", "parent": "b3", "period": 2, "product": "B", "recipe": "cold", "temperature": 86, "tested": 10}
+{"failed": 3, "id": "w7", "parent": "b3", "period": 2, "product": "A", "recipe": "hot", "temperature": 87, "tested": 10}
+{"failed": 0, "id": "w8", "parent": "b4", "period": 2, "product": "A", "recipe": "cold", "temperature": 88, "tested": 10}
+{"failed": 1, "id": "w9", "parent": "b4", "period": 2, "product": "B", "recipe": "hot", "temperature": 89, "tested": 10}

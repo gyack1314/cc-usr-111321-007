@@ -1,0 +1,44 @@
+{
+  "schema": 1,
+  "tables": {
+    "wafers": {
+      "file": "normal-wafers.jsonl",
+      "sha256": "0000000000000000000000000000000000000000000000000000000000000000",
+      "bytes": 1215,
+      "rows": 10,
+      "fields": [
+        "id",
+        "parent",
+        "period",
+        "product",
+        "recipe",
+        "temperature",
+        "failed",
+        "tested"
+      ]
+    },
+    "features": {
+      "file": "normal-features.jsonl",
+      "sha256": "74f5ea51fd48c7a7d6d7423e242800b164b8f44b1f6ae1761047e8e275e0ad09",
+      "bytes": 128,
+      "rows": 2,
+      "fields": [
+        "id",
+        "kind",
+        "available_at"
+      ]
+    },
+    "search_policy": {
+      "file": "normal-search_policy.jsonl",
+      "sha256": "ee35d016c02b342f76d2921fbf87367bfe35f340bcb6a9dddba8d613fd22f750",
+      "bytes": 77,
+      "rows": 1,
+      "fields": [
+        "id",
+        "max_conditions",
+        "min_wafers",
+        "candidate_budget"
+      ]
+    }
+  }
+}
